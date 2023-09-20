@@ -1,4 +1,4 @@
-<h1 align="center"><b> <u>Set up Grafana , Pushgateway and Blackbox Exporter  </u></b></h1>
+<h1 align="center"><b> <u>Set up Grafana , Prometheus and Blackbox Exporter  </u></b></h1>
 
 ## 1 . Task requirement :
 > Setting up Grafana, Prometheus, and Blackbox Exporter for monitoring.
